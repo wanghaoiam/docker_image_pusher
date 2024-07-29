@@ -6,5 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #openjdk:11
 #openjdk:17
-elasticsearch:8.14.3
-postgres:12.19
+#elasticsearch:8.14.3
+#postgres:12.19
+bitnami/airflow:2.2.5
