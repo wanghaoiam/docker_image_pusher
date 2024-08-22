@@ -8,6 +8,7 @@
 #openjdk:17
 #elasticsearch:8.14.3
 #elasticsearch:7.17.23
-elasticsearch:7.17.18
+#elasticsearch:7.17.18
 #postgres:12.19
-bitnami/airflow:2.2.5
+#bitnami/airflow:2.2.5
+woshikid/chatglm3-6b
