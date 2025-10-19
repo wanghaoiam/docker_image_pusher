@@ -4,11 +4,11 @@
 #mysql:8.4.1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#openjdk:11
+openjdk:11
 #openjdk:17
 #elasticsearch:8.14.3
 #elasticsearch:7.17.23
 #elasticsearch:7.17.18
 #postgres:12.19
 #bitnami/airflow:2.2.5
-woshikid/chatglm3-6b
+#woshikid/chatglm3-6b
